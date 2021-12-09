@@ -33,9 +33,9 @@ https://www.deriza.com/img/resim/Deriza-35-06-sisme-hakiki-deri-erkek-yelek-bej_
 <g:service>Standard</g:service>
 <g:price>ÜRÜN KARGO ÜCRETİ TRY</g:price>
 </g:shipping>
-<g:gtin>ÜRÜN BARKODU</g:gtin>
+<g:gtin>ÜRÜN BARKODU (13 veya 14 karakter olmalı. Global Trade Item Number)</g:gtin>
 <g:brand>ÜRÜN MARKASI</g:brand>
-<g:mpn>BARKOD</g:mpn>
+<g:mpn>ÜRÜN BARKODU (13 veya 14 karakter olmalı. Global Trade Item Number)</g:mpn>
 <g:product_type>ÜRÜN ALT KATEGORİ (SON KATEGORİSİ)</g:product_type>
 </item>
 
