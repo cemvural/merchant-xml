@@ -1,0 +1,43 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Deriza</title>
+<link>https://www.deriza.com</link>
+<description>Google Merchant Feed</description>
+
+<item>
+<g:title>
+ÜRÜN ADI
+</g:title>
+<g:link>
+<![CDATA[ https://www.deriza.com/urun/sisme-hakiki-deri-erkek-yelek-bej ]]>
+</g:link>
+<g:description>
+<![CDATA[ ÜRÜN AÇIKLAMA ]]>
+</g:description>
+<g:id>ÜRÜN ID</g:id>
+<g:condition>new</g:condition>
+    <g:size>S/M/L/XL</g:size>
+    <g:color>Bej</g:color>
+    <g:google_product_category>
+	ÜRÜNÜN GOOGLE CATEGORY ID’si
+	(PANELDE AÇILACAK BİR ALAN İLE KATEGORİYE GÖRE GİRİLEREK BURADA DÖNDÜRÜLEBİLİR)
+    </g:google_product_category>
+<g:price>825.00 TRY</g:price>
+<g:sale_price>594.00 TRY</g:sale_price>
+<g:availability>in stock</g:availability>
+<g:image_link>
+https://www.deriza.com/img/resim/Deriza-35-06-sisme-hakiki-deri-erkek-yelek-bej_2.jpg
+</g:image_link>
+<g:shipping>
+<g:country>TR</g:country>
+<g:service>Standard</g:service>
+<g:price>ÜRÜN KARGO ÜCRETİ TRY</g:price>
+</g:shipping>
+<g:gtin>ÜRÜN BARKODU</g:gtin>
+<g:brand>ÜRÜN MARKASI</g:brand>
+<g:mpn>BARKOD</g:mpn>
+<g:product_type>ÜRÜN ALT KATEGORİ (SON KATEGORİSİ)</g:product_type>
+</item>
+
+</channel>
+</rss>
